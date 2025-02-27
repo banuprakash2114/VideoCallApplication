@@ -37,7 +37,7 @@ This **Video Call Application** enables users to schedule and join video calls, 
   - **ZEGOCLOUD** for video calling functionality.
  
   - ## Screenshots and Demo:
-Here are some screenshots and a demo video of the project:
+Here are some screenshots of the project:
 
 ![register](https://github.com/user-attachments/assets/9f8e25b9-6e8e-4f21-951b-88201beba0d6)
 ![login](https://github.com/user-attachments/assets/fdd78957-ba5e-435e-a852-1ed854a1605b)
